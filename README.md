@@ -14,10 +14,7 @@ Note that you do not need to solve the problem.
 
 * Contains a clear and simple restatement of the problem that:
   * Identifies the data
-    * The expression 2^100
   * Identifies the unknown
-    * What the last decimal digit is
   * Identifies the constraint
-    * The expression cannot be calculated
 * Identifies a plausible difficulty with the problem
 * Details 2 plausible approaches to solving the problem
